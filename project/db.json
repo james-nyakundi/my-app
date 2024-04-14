@@ -1,0 +1,76 @@
+{
+  "Exercises": [
+    {
+      "id": "1063",
+      "workout": "Weightlifting",
+      "duration": "56",
+      "calories": "165"
+    },
+    {
+      "id": "01a6",
+      "workout": "Dancing",
+      "duration": "77",
+      "calories": "205"
+    },
+    {
+      "id": "06eb",
+      "workout": "boxing",
+      "duration": "15",
+      "calories": "31"
+    },
+    {
+      "id": "8eb1",
+      "workout": "hiking",
+      "duration": "5",
+      "calories": "7"
+    },
+    {
+      "id": "2fbf",
+      "workout": "hiking",
+      "duration": "22",
+      "calories": "27"
+    },
+    {
+      "id": "b46c",
+      "workout": "Cycling",
+      "duration": "65",
+      "calories": "111"
+    },
+    {
+      "id": "8933",
+      "workout": "boxing",
+      "duration": "11",
+      "calories": "32"
+    },
+    {
+      "id": "c696",
+      "workout": "jogging",
+      "duration": "7",
+      "calories": "12"
+    },
+    {
+      "id": "5ad1",
+      "workout": "swimmig",
+      "duration": "53",
+      "calories": "105"
+    },
+    {
+      "id": "d31f",
+      "workout": "hiking",
+      "duration": "8",
+      "calories": "9"
+    },
+    {
+      "id": "d5d9",
+      "workout": "boxing",
+      "duration": "1",
+      "calories": "1"
+    },
+    {
+      "id": "06bb",
+      "workout": "BURPEES",
+      "duration": "11",
+      "calories": "16"
+    }
+  ]
+}
